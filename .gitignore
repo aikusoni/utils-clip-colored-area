@@ -4,3 +4,4 @@ obj/Debug/net7.0-windows/colored_clipper.AssemblyInfo.cs
 obj/Debug/net7.0-windows/colored_clipper.AssemblyInfoInputs.cache
 obj/Debug/net7.0-windows/colored_clipper.GeneratedMSBuildEditorConfig.editorconfig
 obj/Debug/net7.0-windows/colored_clipper.GlobalUsings.g.cs
+.vscode
