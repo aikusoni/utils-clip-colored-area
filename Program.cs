@@ -42,6 +42,7 @@ class Program
         using (FolderBrowserDialog fbd = new FolderBrowserDialog())
         {
             fbd.SelectedPath = beginPath; 
+            fbd.Description = "save to...";
             DialogResult result = fbd.ShowDialog();
 
             if (result == DialogResult.OK && !string.IsNullOrWhiteSpace(fbd.SelectedPath))
